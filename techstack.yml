@@ -2,7 +2,7 @@ repo_name: 2lambda123/sholva
 report_id: 046130726536da79727e64bfe3cf64ed
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:56:57+00:00'
+timestamp: '2024-02-29T19:14:48+00:00'
 requested_by: 2lambda123
 provider: github
 branch: main
@@ -104,7 +104,7 @@ tools:
   last_updated_by: Jack Leightcap
   last_updated_on: 2023-06-05 18:49:06.000000000 Z
 - name: Nix
-  description: 'A package manager for Linux and other Unix systems '
+  description: A package manager for Linux and other Unix systems
   website_url: http://nixos.org/nix
   license: LGPL-2.1
   open_source: true
